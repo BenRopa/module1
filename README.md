@@ -8,7 +8,9 @@ This is an important component of your project that many new developers often ov
 
 Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
 
-The quality of a README description often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase:
+
+Screenshot: 
+![Screenshot 2022-11-28 at 10 52 15 PM](https://user-images.githubusercontent.com/117046452/204441909-88584481-7dc0-4e4d-8468-3cf1621914e1.png)
 
 What your application does,
 Why you used the technologies you used,
