@@ -1,12 +1,8 @@
-# Code Refactor Starter Code
-What to Include in your README
-1. Project's Title
+**Refactoring to Revitalize**
 This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
 
-2. Project Description
-This is an important component of your project that many new developers often overlook.
-
-Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
+**Project Description**
+In this project we practiced refactoring HTML/CSS code to use best practices and increase accesibility. We completed this through the use of computational thinking, HTML, CSS, and git. I was able to gain a more concrete idea of what HTML semantic elements are and how the code of our webpages should be displayed. Previously, our existing webpage did not meet accessibilty standards. We provided these features in order to better the webpage and user experience. 
 
 
 Screenshot: 
