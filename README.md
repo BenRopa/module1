@@ -1,4 +1,4 @@
-# <**Refactoring to Revitalize**>
+# **Refactoring to Revitalize**
 
 ## Description
 
